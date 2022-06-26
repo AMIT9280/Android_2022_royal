@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+    <TextView
+        android:id="@+id/tv_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
+        android:fontFamily="serif"
+        android:text="Login"
+        android:textColor="#ffff"
+        android:textSize="30sp"
+        android:textStyle="bold|italic" />
+        <EditText
+            android:id="@+id/edt_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_login"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/edt_bg"
+            android:hint="username"
+            android:drawableLeft="@drawable/ic_baseline_person_24"
+            android:drawablePadding="15dp"
+            android:textColorHint="#000"
+            android:padding="15dp"
+            android:imeOptions="actionNext"
+            android:singleLine="true"
+            android:inputType="textEmailAddress"/>
+            <EditText
+                android:id="@+id/edt_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/edt_username"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/edt_bg"
+                android:hint="password"
+                android:drawableLeft="@drawable/ic_password"
+                android:drawablePadding="15dp"
+                android:textColorHint="#000"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword"
+                android:padding="15dp"
+                android:singleLine="true"/>
+    <android.widget.Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_login"
+        android:layout_below="@id/edt_password"
+        android:layout_margin="40dp"
+        android:textColor="#fff"
+        android:text="Login"
+        android:background="@drawable/btn_bg"
+
+        />
+
+
+
+
+</RelativeLayout>
