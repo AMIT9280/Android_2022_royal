@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Royal">
         <activity
+            android:name=".Home_fbActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Login_PageActivity"
+            android:exported="false" />
+        <activity
+            android:name=".facebook_loginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

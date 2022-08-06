@@ -4,13 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/btn_bg2.xml" value="0.1635" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/btn_fb.xml" value="0.194" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/edt_bg.xml" value="0.193" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/edt_bg2.xml" value="0.1635" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/fb_bg.xml" value="0.194" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1435" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1435" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1435" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/drawable/insta_bg.xml" value="0.2345" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/font/font.xml" value="0.284375" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/layout/activity_fb.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/layout/activity_home.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/layout/activity_netflix_login.xml" value="0.2" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/layout/activity_netflix_login.xml" value="0.264" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/Androidfasttrack/app/src/main/res/layout/activity_nt_home.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

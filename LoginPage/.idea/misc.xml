@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/bg.xml" value="0.1515" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/bg_login.xml" value="0.2065" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/btn_bg.xml" value="0.1755" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/edt_bg.xml" value="0.1515" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/ic_email.xml" value="0.183" />
         <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_linear.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_login_task.xml" value="0.264" />
+        <entry key="..\:/Users/Amit Thakkar/AndroidStudioProjects/LoginPage/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
   </component>

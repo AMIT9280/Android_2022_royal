@@ -18,43 +18,70 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hw_Login_Page">
         <activity
-            android:name=".simple_listviewActivity"
+            android:name=".Activitys.WhatsAppActivity"
             android:exported="false" />
         <activity
-            android:name=".SpinnerActivity"
+            android:name=".Activitys.wp_fragmentActivity"
             android:exported="false" />
         <activity
-            android:name=".DateTimeActivity"
+            android:name=".Activitys.fragment_loadActivity"
             android:exported="false" />
         <activity
-            android:name=".AlertActivity"
+            android:name=".Activitys.FragmentXMLActivity"
             android:exported="false" />
         <activity
-            android:name=".SeekActivity"
+            android:name=".Activitys.custSpinnerActivity"
             android:exported="false" />
         <activity
-            android:name=".SeekprintActivity"
+            android:name=".Activitys.customTaskActivity"
             android:exported="false" />
         <activity
-            android:name=".GallaryActivity"
+            android:name=".Activitys.customlistviewActivity"
             android:exported="false" />
         <activity
-            android:name=".LinearLoginPage"
+            android:name=".Activitys.webviewActivity"
             android:exported="false" />
         <activity
-            android:name=".HomeActivity"
+            android:name=".Activitys.SimpleGridViewActivity"
             android:exported="false" />
         <activity
-            android:name=".lumia"
+            android:name=".Activitys.simple_listviewActivity"
             android:exported="false" />
         <activity
-            android:name=".part2"
+            android:name=".Activitys.SpinnerActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Activitys.DateTimeActivity"
             android:exported="false" />
         <activity
-            android:name=".SplashActivity"
+            android:name=".Activitys.AlertActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.SeekActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.SeekprintActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.GallaryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.LinearLoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.lumia"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.part2"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Activitys.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

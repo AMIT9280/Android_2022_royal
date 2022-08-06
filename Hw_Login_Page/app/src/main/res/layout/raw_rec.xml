@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activitys.customTaskActivity"
+    android:orientation="horizontal"
+    android:padding="20dp"
+    >
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/img_data"
+        android:src="@color/teal_200"
+        android:layout_marginTop="30dp"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        android:layout_marginTop="20dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_data"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:text="NO DATA Availble"
+            />
+
+        <TextView
+            android:id="@+id/index"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="60dp"
+            android:text="INDEX"
+
+            />
+
+        <TextView
+            android:id="@+id/des"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_data"
+            android:layout_marginLeft="10dp"
+            android:inputType="textMultiLine"
+            android:layout_marginTop="20dp"
+            android:text="INDEX"
+
+            />
+    </RelativeLayout>
+</LinearLayout>

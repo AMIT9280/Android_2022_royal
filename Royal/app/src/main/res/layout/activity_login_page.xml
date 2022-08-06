@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg2"
+    tools:context=".Login_PageActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_l"
+        android:layout_centerHorizontal="true"
+        android:text="Login"
+        android:layout_marginTop="20dp"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_username"
+        android:layout_below="@+id/tv_l"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/edtbg2"
+        android:padding="15dp"
+        android:layout_marginHorizontal="20dp"
+        android:drawableLeft="@drawable/ic_person"
+        android:layout_marginTop="10dp"
+        android:hint="USERNAME"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edt_pass"
+        android:layout_below="@+id/edt_username"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/edtbg2"
+        android:padding="15dp"
+        android:layout_marginHorizontal="20dp"
+        android:drawableLeft="@drawable/ic_password"
+        android:layout_marginTop="10dp"
+        android:hint="PASSWORD"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_pass"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="80dp"
+        android:text="submit"
+        />
+
+</RelativeLayout>
